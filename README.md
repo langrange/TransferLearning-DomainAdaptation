@@ -17,4 +17,4 @@
 
 ## Accelerate speed
 * Accelerating Deep Unsupervised Domain Adaptation with Transfer Channel Pruning [[Arxiv 2019]](https://arxiv.org/abs/1904.02654)
-* 首次从加速的角度来对无监督领域自适应进行优化,Transfer Channel Pruning能够通过剪除不太重要的信道来压缩深度UDA模型，同时通过减少跨域分布的差异来学习可转移的特征。
+首次从加速的角度来对无监督领域自适应进行优化,Transfer Channel Pruning能够通过剪除不太重要的信道来压缩深度UDA模型，同时通过减少跨域分布的差异来学习可转移的特征。
