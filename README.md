@@ -22,6 +22,9 @@ Correlation congruence for konwledge distillation 不仅可以实现基于样本
 
 ## Detection
 * A Robust Learning Approach to Domain Adaptive Object Detection [[Arxiv 2019]](https://arxiv.org/abs/1904.02361)
+* Strong-Weak Distribution Alignment for Adaptive Object Detection [[Arxiv 2019]](https://arxiv.org/abs/1812.04798)
+
+网络的底层特征进行强对齐，高层特征进行弱对齐
 
 ## Accelerate speed
 * Accelerating Deep Unsupervised Domain Adaptation with Transfer Channel Pruning [[Arxiv 2019]](https://arxiv.org/abs/1904.02654)
