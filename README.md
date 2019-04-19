@@ -14,7 +14,12 @@
 ## GAN-based
 * Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[Arxiv 2017]](https://arxiv.org/abs/1703.10593)
    
-   文章可以实现不同域的图像到图像的相互转换
+   文章可以实现不同域的图像到图像的相互转换 
+* Looking back at Labels - A Class based Domain Adaptation Technique [[Arxiv 2019]](https://arxiv.org/abs/1904.01341)
+* GLoMo Unsupervisedly Learned Relational Graphs [[Arxiv 2018]](https://arxiv.org/abs/1806.05662)
+
+   学习目标样本之间的隐关系图
+* AlignGAN - Learning to Align Cross-Domain Images with Conditional Generative Adversarial Networks [[Arxiv 2017]](https://arxiv.org/abs/1707.01400)
 
 ## Semantic Segmentation
 * Learning from Synthetic Data - Addressing Domain Shift for Semantic Segmentation [[Arxiv 2018]](https://arxiv.org/abs/1711.06969)
@@ -31,3 +36,9 @@
 * Accelerating Deep Unsupervised Domain Adaptation with Transfer Channel Pruning [[Arxiv 2019]](https://arxiv.org/abs/1904.02654)
    
    首次从加速的角度来对无监督领域自适应进行优化,Transfer Channel Pruning能够通过剪除不太重要的信道来压缩深度UDA模型，同时通过减少跨域分布的差异来学习可转移的特征。
+
+## Application
+* Unsupervised Domain Adaptation for Multispectral Pedestrian Detection [[Arxiv 2019]](https://arXiv.org/pdf/1904.03692v1.pdf)
+
+   通过迭代生成Pseudo Annotation以及更新设计的目标域多谱探测器(光学探测器和热学探测器)的参数
+   
