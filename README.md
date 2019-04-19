@@ -11,6 +11,9 @@
 * EASY TRANSFER LEARNING BY EXPLOITING INTRA-DOMAIN STRUCTURES [[Arxiv 2019]](https://arxiv.org/pdf/1904.01376v2.pdf)
    
    文章提出了一种实用的易传递学习（EasyTL）方法，它不需要进行模型选择和超参数调整，同时获得了具有竞争力的性能，挖掘域内结构来进行迁移，使用Intra-domain Programming来替换原来的Softmax的分类器。
+* Adaptive Batch Normalization for practical domain adaptation[[Pattern Recognition 2018]](https://www.sciencedirect.com/science/article/abs/pii/S003132031830092X)
+* Maximum Classifier Discrepancy for Unsupervised Domain Adaptation [[Arxiv 2018]](https://arxiv.org/abs/1712.02560)
+
 ## GAN-based
 * Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[Arxiv 2017]](https://arxiv.org/abs/1703.10593)
    
@@ -20,6 +23,8 @@
 
    学习目标样本之间的隐关系图
 * AlignGAN - Learning to Align Cross-Domain Images with Conditional Generative Adversarial Networks [[Arxiv 2017]](https://arxiv.org/abs/1707.01400)
+* Adversarial Discriminative Domain Adaptation [[Arxiv 2017]](https://arxiv.org/pdf/1702.05464.pdf)
+* 
 
 ## Semantic Segmentation
 * Learning from Synthetic Data - Addressing Domain Shift for Semantic Segmentation [[Arxiv 2018]](https://arxiv.org/abs/1711.06969)
@@ -29,6 +34,7 @@
 ## Detection
 * A Robust Learning Approach to Domain Adaptive Object Detection [[Arxiv 2019]](https://arxiv.org/abs/1904.02361)
 * Strong-Weak Distribution Alignment for Adaptive Object Detection [[Arxiv 2019]](https://arxiv.org/abs/1812.04798)
+* Domain Adaptive Faster R-CNN for Object Detection in the Wild [[Arxiv 2018]](https://arxiv.org/abs/1803.03243)
   
   网络的底层特征进行强对齐，高层特征进行弱对齐
 
