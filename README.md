@@ -7,7 +7,7 @@
 ## Transfer Learning
 * Correlation Congruence for Knowledge Distillation [[Arxiv 2019]](https://arxiv.org/abs/1904.01802)
 
-Correlation congruence for konwledge distillation 不仅可以实现基于样本个体信息的转移，还可以转移样本之间的关系
+   Correlation congruence for konwledge distillation 不仅可以实现基于样本个体信息的转移，还可以转移样本之间的关系
 * EASY TRANSFER LEARNING BY EXPLOITING INTRA-DOMAIN STRUCTURES [[Arxiv 2019]](https://arxiv.org/pdf/1904.01376v2.pdf)
 
 文章提出了一种实用的易传递学习（EasyTL）方法，它不需要进行模型选择和超参数调整，同时获得了具有竞争力的性能，挖掘域内结构来进行迁移，使用Intra-domain Programming来替换原来的Softmax的分类器。
