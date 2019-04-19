@@ -14,10 +14,6 @@
 * Adaptive Batch Normalization for practical domain adaptation[[Pattern Recognition 2018]](https://www.sciencedirect.com/science/article/abs/pii/S003132031830092X)
 * Maximum Classifier Discrepancy for Unsupervised Domain Adaptation [[Arxiv 2018]](https://arxiv.org/abs/1712.02560)
 
-## GAN-based
-* Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[Arxiv 2017]](https://arxiv.org/abs/1703.10593)
-   
-   文章可以实现不同域的图像到图像的相互转换 
 * Looking back at Labels - A Class based Domain Adaptation Technique [[Arxiv 2019]](https://arxiv.org/abs/1904.01341)
 * Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation [[Arxiv 2018]](https://arxiv.org/abs/1803.11365)
 * GLoMo Unsupervisedly Learned Relational Graphs [[Arxiv 2018]](https://arxiv.org/abs/1806.05662)
@@ -31,8 +27,15 @@
 * Deep coral-Correlation alignment for deep domain adaptation [[Arxiv 2016]](https://arxiv.org/abs/1607.01719)
 * Beyond Sharing Weights for Deep Domain Adaptation [[Arxiv 2016]](https://arxiv.org/abs/1603.06432)
 
+   采用两个Streams，相应层中的权重是相关的，但不是共享的
 * Simultaneous Deep Transfer Across Domains and Tasks [[Arxiv 2015]](https://arxiv.org/abs/1510.02192)
 
+
+
+## GAN-based
+* Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[Arxiv 2017]](https://arxiv.org/abs/1703.10593)
+   
+      文章可以实现不同域的图像到图像的相互转换 
 
 ## Semantic Segmentation
 * Learning from Synthetic Data - Addressing Domain Shift for Semantic Segmentation [[Arxiv 2018]](https://arxiv.org/abs/1711.06969)
@@ -45,6 +48,7 @@
 * Domain Adaptive Faster R-CNN for Object Detection in the Wild [[Arxiv 2018]](https://arxiv.org/abs/1803.03243)
   
   网络的底层特征进行强对齐，高层特征进行弱对齐
+* Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation [[CVPR 2018]](https://arxiv.org/abs/1803.11365)
 
 ## Accelerate speed
 * Accelerating Deep Unsupervised Domain Adaptation with Transfer Channel Pruning [[Arxiv 2019]](https://arxiv.org/abs/1904.02654)
