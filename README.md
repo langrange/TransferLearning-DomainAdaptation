@@ -19,12 +19,20 @@
    
    文章可以实现不同域的图像到图像的相互转换 
 * Looking back at Labels - A Class based Domain Adaptation Technique [[Arxiv 2019]](https://arxiv.org/abs/1904.01341)
+* Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation [[Arxiv 2018]](https://arxiv.org/abs/1803.11365)
 * GLoMo Unsupervisedly Learned Relational Graphs [[Arxiv 2018]](https://arxiv.org/abs/1806.05662)
 
    学习目标样本之间的隐关系图
 * AlignGAN - Learning to Align Cross-Domain Images with Conditional Generative Adversarial Networks [[Arxiv 2017]](https://arxiv.org/abs/1707.01400)
 * Adversarial Discriminative Domain Adaptation [[Arxiv 2017]](https://arxiv.org/pdf/1702.05464.pdf)
-* 
+* Deep Transfer Learning with Joint Adaptation Networks [[Arxiv 2017]](https://arxiv.org/abs/1605.06636)
+* Unsupervised Domain Adaptation with Residual Transfer Networks [[Arxiv 2017]](https://arxiv.org/abs/1602.04433)
+
+* Deep coral-Correlation alignment for deep domain adaptation [[Arxiv 2016]](https://arxiv.org/abs/1607.01719)
+* Beyond Sharing Weights for Deep Domain Adaptation [[Arxiv 2016]](https://arxiv.org/abs/1603.06432)
+
+* Simultaneous Deep Transfer Across Domains and Tasks [[Arxiv 2015]](https://arxiv.org/abs/1510.02192)
+
 
 ## Semantic Segmentation
 * Learning from Synthetic Data - Addressing Domain Shift for Semantic Segmentation [[Arxiv 2018]](https://arxiv.org/abs/1711.06969)
